@@ -11,7 +11,7 @@ $query=$conn->prepare("select product_name,code,status,purchasing_price,selling_
 
 //then execute the query
 
-$query->execute();
+
 
 //then bind the query from above
 
